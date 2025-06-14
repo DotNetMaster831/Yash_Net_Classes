@@ -1,0 +1,14 @@
+C:\DurgaSai\Classes\Yash\Class1\Class1\bin\Release\Class1.exe.config
+C:\DurgaSai\Classes\Yash\Class1\Class1\bin\Release\Class1.exe.manifest
+C:\DurgaSai\Classes\Yash\Class1\Class1\bin\Release\Class1.application
+C:\DurgaSai\Classes\Yash\Class1\Class1\bin\Release\Class1.exe
+C:\DurgaSai\Classes\Yash\Class1\Class1\bin\Release\Class1.pdb
+C:\DurgaSai\Classes\Yash\Class1\Class1\bin\Release\Newtonsoft.Json.dll
+C:\DurgaSai\Classes\Yash\Class1\Class1\bin\Release\Newtonsoft.Json.xml
+C:\DurgaSai\Classes\Yash\Class1\Class1\obj\Release\Class1.csproj.AssemblyReference.cache
+C:\DurgaSai\Classes\Yash\Class1\Class1\obj\Release\Class1.csproj.CoreCompileInputs.cache
+C:\DurgaSai\Classes\Yash\Class1\Class1\obj\Release\Class1.exe.manifest
+C:\DurgaSai\Classes\Yash\Class1\Class1\obj\Release\Class1.application
+C:\DurgaSai\Classes\Yash\Class1\Class1\obj\Release\Class1.csproj.Up2Date
+C:\DurgaSai\Classes\Yash\Class1\Class1\obj\Release\Class1.exe
+C:\DurgaSai\Classes\Yash\Class1\Class1\obj\Release\Class1.pdb

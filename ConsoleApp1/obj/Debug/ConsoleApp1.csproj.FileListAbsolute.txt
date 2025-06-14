@@ -1,0 +1,7 @@
+C:\DurgaSai\Classes\Yash\Class1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\DurgaSai\Classes\Yash\Class1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\DurgaSai\Classes\Yash\Class1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\DurgaSai\Classes\Yash\Class1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\DurgaSai\Classes\Yash\Class1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\DurgaSai\Classes\Yash\Class1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\DurgaSai\Classes\Yash\Class1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

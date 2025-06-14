@@ -1,0 +1,7 @@
+C:\DurgaSai\Classes\Yash\Class1\Loops\bin\Debug\Loops.exe.config
+C:\DurgaSai\Classes\Yash\Class1\Loops\bin\Debug\Loops.exe
+C:\DurgaSai\Classes\Yash\Class1\Loops\bin\Debug\Loops.pdb
+C:\DurgaSai\Classes\Yash\Class1\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\DurgaSai\Classes\Yash\Class1\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\DurgaSai\Classes\Yash\Class1\Loops\obj\Debug\Loops.exe
+C:\DurgaSai\Classes\Yash\Class1\Loops\obj\Debug\Loops.pdb

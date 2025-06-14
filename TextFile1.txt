@@ -1,0 +1,5 @@
+For
+
+for(intilization; Condition check; increment/decrement){
+	stetements
+}
